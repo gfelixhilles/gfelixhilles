@@ -6,8 +6,8 @@
 </div>
 
 
-- 🔭 I’m currently attending the informatic course on Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET Maracanã) - Rio de Janeiro - Brazil 
-- 🌱 I’m currently learning C and Java
+- 🖥️ I’m currently attending the informatic course on Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET Maracanã) - Rio de Janeiro - Brazil 
+- 📕 I’m currently learning C and Java
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
