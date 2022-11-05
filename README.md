@@ -5,9 +5,15 @@ Hi there, I'm Gabriel Felix Hilleshein 👋 <img src="https://www.gov.br/planalt
 <div align="left">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Gfelixhilles&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gfelixhilles&layout=compact&langs_count=7&theme=react"/>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
-
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50px"/>
+</div>
 
 - 🖥️ I’m currently attending the informatic course on Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET Maracanã) - Rio de Janeiro - Brazil 
 - 📕 I’m learning C and Java at this moment
